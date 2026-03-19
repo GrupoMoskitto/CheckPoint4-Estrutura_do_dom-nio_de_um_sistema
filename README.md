@@ -4,10 +4,14 @@ Este projeto é um sistema de CRM completo, desenvolvido em Java, com uma interf
 
 ---
 ##  Feito por:
-RM: Nome:
-RM: Nome:
-RM: Nome:
-RM:559790 Nome:Marcelo Affonso Fonseca
+- Nome:
+  RM: 
+- Nome:
+  RM: 
+- Nome:
+  RM: 
+- Nome: Marcelo Affonso Fonseca
+  RM:559790
 
 ---
 ##  Arquitetura do Projeto
