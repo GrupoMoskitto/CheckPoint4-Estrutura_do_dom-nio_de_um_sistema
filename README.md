@@ -4,14 +4,14 @@ Este projeto é um sistema de CRM completo, desenvolvido em Java, com uma interf
 
 ---
 ##  Feito por:
-- Nome:
-  RM: 
+- Nome: Gabriel Couto Ribeiro
+  RM: 559579
 - Nome:
   RM: 
 - Nome:
   RM: 
 - Nome: Marcelo Affonso Fonseca
-  RM:559790
+  RM: 559790
 
 ---
 ##  Arquitetura do Projeto
