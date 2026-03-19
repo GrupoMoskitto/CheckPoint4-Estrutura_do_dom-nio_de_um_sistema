@@ -3,15 +3,11 @@
 Este projeto é um sistema de CRM completo, desenvolvido em Java, com uma interface interativa via console (menus numerados de 1 a 5+). Ele foi estruturado seguindo os requisitos de canais de acesso, fluxos de atendimento com chatbot e equipe de vendas, além de toda a modelagem de entidades solicitada.
 
 ---
-##  Feito por:
-- Nome: Gabriel Couto Ribeiro
-  RM: 559579
-- Nome:
-  RM: 
-- Nome:
-  RM: 
-- Nome: Marcelo Affonso Fonseca
-  RM: 559790
+##  Feito por: Grupo Moskitto (FIAP - 2ESPA)
+- Nome: Gabriel Couto Ribeiro - RM559579
+- Nome: Gabriel Kato Peres - RM560000 
+- Nome: João Vitor de Matos Araujo - RM559246
+- Nome: Marcelo Affonso Fonseca - RM559790
 
 ---
 ##  Arquitetura do Projeto
